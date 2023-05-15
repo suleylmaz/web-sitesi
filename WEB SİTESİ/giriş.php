@@ -1,3 +1,3 @@
 <?php
-  echo("Merhaba PHP")
+  echo("Hoşgeldin")
 ?>
